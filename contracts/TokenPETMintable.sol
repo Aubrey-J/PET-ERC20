@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 import { TokenPET } from "../contracts/TokenPET.sol";
 import { Ownable } from "../library/Ownable.sol";

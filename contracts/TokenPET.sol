@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 import { SafeMath } from "../library/SafeMath.sol";
 import { ERC20 } from "../library/ERC20.sol";
